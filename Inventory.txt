@@ -1,0 +1,9 @@
+Black Coffee = 10
+CARAMEL Syrup = 5
+Espresso = 10
+Hot Water = 100
+MOCHA Syrup = 5
+Milk = 10
+Sugar = 10
+VANILLA Syrup = 5
+Whipped Cream = 5

@@ -1,0 +1,79 @@
+ORDER RECEIPT
+Timestamp: 2023-06-25 03:51PM
+Item 1: A black coffee with sugar with CARAMEL - 1.50
+TOTAL = 1.50
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 03:51PM
+Item 1: A black coffee with milk with MOCHA - 1.90
+TOTAL = 1.90
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 03:52PM
+Item 1: A black coffee with VANILLA with MOCHA - 1.70
+TOTAL = 1.70
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 03:52PM
+Item 1: An espresso with whipped cream with milk - 2.55
+TOTAL = 2.55
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 03:58PM
+Item 1: A black coffee with sugar - 1.15
+Item 2: An espresso - 1.75
+TOTAL = 2.90
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:30PM
+Item 1: An espresso with VANILLA with whipped cream - 2.35
+Item 2: An espresso with sugar with whipped cream - 2.15
+TOTAL = 4.50
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:31PM
+Item 1: A black coffee with hot water with MOCHA - 1.35
+Item 2: A black coffee with sugar with whipped cream - 1.40
+TOTAL = 2.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:33PM
+Item 1: A black coffee with sugar with VANILLA - 1.50
+Item 2: An espresso with sugar with CARAMEL - 2.25
+Item 3: An espresso with MOCHA with VANILLA - 2.45
+Item 4: An espresso with whipped cream with hot water - 2.00
+TOTAL = 8.20
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:34PM
+Item 1: A black coffee - 1.00
+Item 2: An espresso - 1.75
+TOTAL = 2.75
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:43PM
+Item 1: A black coffee with MOCHA with VANILLA - 1.70
+Item 2: A black coffee with whipped cream with hot water - 1.25
+TOTAL = 2.95
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:44PM
+Item 1: A black coffee with hot water with CARAMEL - 1.35
+TOTAL = 1.35
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:44PM
+Item 1: An espresso with VANILLA with sugar - 2.25
+TOTAL = 2.25
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 04:44PM
+Item 1: A black coffee - 1.00
+TOTAL = 1.00
+
+ORDER RECEIPT
+Timestamp: 2023-06-25 06:12PM
+Item 1: An espresso with CARAMEL with milk - 2.65
+Item 2: A black coffee with MOCHA with milk - 1.90
+TOTAL = 4.55
+
