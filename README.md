@@ -41,13 +41,16 @@
  **Inventory.txt** contains all **Ingredients** and their quantities
  If any **Ingredients** are used and **Inventory.txt** is updated, **Ingredients** quantities in **Inventory.txt** will change
 
+
 ## Menu Option 3 (Update Inventory)
  If option 3 is selected, **Inventory.txt** will be updated
  This will change the quantities of **Ingredients** based on how many of those **Ingredients** have been used for coffees
 
+
 ## Menu Option 4 (Update Order Log)
  If option 4 is selected, **OrderLog.txt** will be updated
  **OrderLog.txt** is where all Coffee Order Receipts are documented
+
 
 ## Menu Option 5 (Exit Application)
  If option 5 is selected, IntelliJ IDE will terminate the application and stop running the code
